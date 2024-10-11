@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #fruits = ['яблоко', 'банан', 'вишня']
 #for fruit in fruits:
  #   print(f'Я люблю {fruit}')
@@ -24,3 +25,6 @@
       #      print(f'Первое четное число: {numbers[index]}')
        #     break
       #  index += 1
+=======
+print('hELLO')
+>>>>>>> 8cee1c517fc3829abeecaa6c9d53bb6143b212fc
